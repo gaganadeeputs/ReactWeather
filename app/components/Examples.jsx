@@ -3,7 +3,11 @@ var React=require('react');
 var Examples= React.createClass({
 render: function() {
    return(
-          <h3>Example component</h3>
+     <div>
+           <h3>Example component!!!</h3>
+           <h3>Welcome to Examples!!!</h3>
+     </div>
+
    );
 }
 });
