@@ -22,7 +22,7 @@ render: function() {
 }
    return(
      <div>
-     <h2>Weather component</h2>
+     <h1 className="text-center">Get Weather</h1>
      <WeatherForm onSearch={this.handleSearch}/>
      {renderMessage()}
      </div>

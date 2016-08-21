@@ -12,7 +12,7 @@ var React=require('react');
 var WeatherMessage=(props)=>{
   var {temp, location}=props;
   return(
-    <p>Its {temp} in {location}</p>
+    <h3 className="text-center">Its {temp} in {location}</h3>
   );
 }
 
