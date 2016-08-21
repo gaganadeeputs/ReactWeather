@@ -23,7 +23,6 @@ var Main=(props)=>
           {props.children}
       </div>
     </div>
-    <h2>Main component</h2>
     </div>
   );
 };
