@@ -6,6 +6,7 @@ render: function() {
      <div>
            <h3>Example component!!!</h3>
            <h3>Welcome to Examples!!!</h3>
+           <h4>Welcome to Examples!!!</h4>
      </div>
 
    );
